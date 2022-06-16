@@ -8,8 +8,8 @@ public class MashinTest {
     @Test
     void mashin_bayad_ba_dar_baste_va_roshan_harekat_konad() {
         //given
-        Mashine benz = new Mashine("benz");
-        Mashine pride = new Mashine("pride");
+        Khodro benz = new Mashine("benz");
+        Khodro pride = new Mashine("pride");
         pride.roshanKardan();
 
         //when
