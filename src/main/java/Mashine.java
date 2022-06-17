@@ -1,6 +1,8 @@
 
 public class Mashine extends Khodro {
+    public static int tedadForoosh;
     boolean darbazastyana;
+
 
     public String getMark() {
         return mark;
